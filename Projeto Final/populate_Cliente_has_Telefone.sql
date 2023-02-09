@@ -1,6 +1,0 @@
-INSERT INTO cliente_has_telefone (CPF_Cliente, Cod_Telefone) VALUES
-(111111111,1),
-(222222222,2),
-(333333333,3),
-(444444444,4),
-(555555555,5);
